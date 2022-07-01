@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"",
+	"description":	{
+		"":	"Creates a 3D PDF from fusion 360 model"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"44859792-042e-4bf4-a78e-262018576d39",
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"sourcewindows":	"SavePDF3D.vcxproj",
+	"sourcemac":	"SavePDF3D.xcodeproj"
+}

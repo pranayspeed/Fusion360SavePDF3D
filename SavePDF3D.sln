@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SavePDF3D", "SavePDF3D.vcxproj", "{D7CBB035-8CC0-4576-9C72-5076E079586B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TesseKetor", "..\CommonSouceFiles\TesseKetor\TesseKetor.vcxproj", "{79FFAA5F-40A3-4AD8-9EDD-A378526F789A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZLibManager", "prcexternallibrary\ZLibManager\ZLibManager.vcxproj", "{EF84E9EE-48FC-4B10-A7AA-9C75D17F5E43}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prcexternallibrary", "prcexternallibrary\prcexternallibrary\prcexternallibrary.vcxproj", "{A38AF847-F2DD-48FC-A755-865EDC3E2D60}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "podofo_static", "D:\podofo-master\BuildWin32\src\podofo_static.vcxproj", "{2ACAD2E6-9C36-3D11-A6DA-A11224CE5416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7CBB035-8CC0-4576-9C72-5076E079586B}.Debug|x64.ActiveCfg = Debug|x64
+		{D7CBB035-8CC0-4576-9C72-5076E079586B}.Debug|x64.Build.0 = Debug|x64
+		{D7CBB035-8CC0-4576-9C72-5076E079586B}.Release|x64.ActiveCfg = Release|x64
+		{D7CBB035-8CC0-4576-9C72-5076E079586B}.Release|x64.Build.0 = Release|x64
+		{79FFAA5F-40A3-4AD8-9EDD-A378526F789A}.Debug|x64.ActiveCfg = Debug|x64
+		{79FFAA5F-40A3-4AD8-9EDD-A378526F789A}.Debug|x64.Build.0 = Debug|x64
+		{79FFAA5F-40A3-4AD8-9EDD-A378526F789A}.Release|x64.ActiveCfg = Release|x64
+		{79FFAA5F-40A3-4AD8-9EDD-A378526F789A}.Release|x64.Build.0 = Release|x64
+		{EF84E9EE-48FC-4B10-A7AA-9C75D17F5E43}.Debug|x64.ActiveCfg = Debug|x64
+		{EF84E9EE-48FC-4B10-A7AA-9C75D17F5E43}.Debug|x64.Build.0 = Debug|x64
+		{EF84E9EE-48FC-4B10-A7AA-9C75D17F5E43}.Release|x64.ActiveCfg = Release|x64
+		{EF84E9EE-48FC-4B10-A7AA-9C75D17F5E43}.Release|x64.Build.0 = Release|x64
+		{A38AF847-F2DD-48FC-A755-865EDC3E2D60}.Debug|x64.ActiveCfg = Debug|x64
+		{A38AF847-F2DD-48FC-A755-865EDC3E2D60}.Debug|x64.Build.0 = Debug|x64
+		{A38AF847-F2DD-48FC-A755-865EDC3E2D60}.Release|x64.ActiveCfg = Release|x64
+		{A38AF847-F2DD-48FC-A755-865EDC3E2D60}.Release|x64.Build.0 = Release|x64
+		{2ACAD2E6-9C36-3D11-A6DA-A11224CE5416}.Debug|x64.ActiveCfg = Debug|x64
+		{2ACAD2E6-9C36-3D11-A6DA-A11224CE5416}.Debug|x64.Build.0 = Debug|x64
+		{2ACAD2E6-9C36-3D11-A6DA-A11224CE5416}.Release|x64.ActiveCfg = Release|x64
+		{2ACAD2E6-9C36-3D11-A6DA-A11224CE5416}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
